@@ -118,9 +118,6 @@ Includes animated brand-themed buttons and a crafted closing note:
 
 ## 🌟 Live Demo
 
-👉 [Visit My Portfolio](#) *(add your live link when hosted)*
+👉 [Visit My Portfolio](#) *(https://ankitraj588.github.io/my_portfolio/)*
 
 ---
-
-Would you like me to format this README with **badges, emojis, and a clean section layout (like shields.io, GitHub stats, etc.)** for a more *professional GitHub profile look*?
-I can rewrite it in that style next.
